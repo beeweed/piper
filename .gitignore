@@ -14,6 +14,7 @@ npm-debug.log*
 # Build folders
 dist/
 build/
+.venv/
 
 # OS files
 .DS_Store
